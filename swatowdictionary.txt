@@ -1,4 +1,4 @@
-English-Hokkienese Dictionary in the Script of National Language of Swatow dialect
+The dictionary of English-Hokkienese dictionary in the Script of National Language of Swatow dialect
 Sòą-Thảu-Ọe Koc-Gứ-Dị Eng-Bủn Xủ-Tién
 This dictionary is based on English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow by Rudolf Lechler, Samuel Wells Williams, William Duffus
 auther: Vòng Vân-Hạu
@@ -1058,7 +1058,7 @@ chasm, tị pit-khui; tị lịh-khui; tị hạm.
 chaste, chiẻng-chiet; siú-chiet; țat-liẹt. archway in memory of chaste widow who remains unmarried, chiet-hũ-tẻng.
 chat, tą̀-ỏį-ọe; phoẹh; phoẹh-ọe; phịt-phoẹh; thảm-lũn; thảm-ngản.
 chattels, ke-si lạc-thioc; ke-țư; ke-hóe.
-chatter, chiaụh-chiaụh-kiè; ki-ki-kiè. with cold, chhìn kàu pộ-xỏ ỏ-tạu; chhìn kàu khí tõ-tiẹ.
+chatter, chiạuh-chiạuh-kiè; ki-ki-kiè. with cold, chhìn kàu pộ-xỏ ỏ-tạu; chhìn kàu khí tõ-tiẹ.
 cheap, phį; pản-gỉ; kiám-kè. dog-cheap, pản-gỉ kui-țọą; țọą-kè. cheap enough, do not beat it down more, pản-gỉ ṃ-hó țài-txú.
 cheat, phièn; khi-phièn; láu-phièn; koang-láu; koang-phièn; txoah.
 check, țó-chí; at-chí; at-tiạm; țó-keh; yac-xoc; țũ; at-țũ. oneself, at-chí ka-kị. pain, chí-thią̀. diarrhoea, chí-sià; țũ-sià.
@@ -1084,7 +1084,7 @@ China, Tong-koc; Tong-ngoản; Tong-hỏa; Tửng-xoą. China proper, țạp-poi
 chink, phạng. to chink dollars, poạh-ngửn-sią.
 chintz, ìn-hoe-pồ; hoe-pồ.
 chip, phòa-khui-txả; siah-txả. chips, txả-txùi.
-chirp, bird, chih-chiaụh-kiè. crickets, tiẻc-xut kiang-kiang-kiè; tiang-tiang-kiè.
+chirp, bird, chih-chiạuh-kiè. crickets, tiẻc-xut kiang-kiang-kiè; tiang-tiang-kiè.
 chisel, txạc-kią́. stonecutter's, țãm; chiẹh-țãm.
 chloranthus, koi-kha-lản (chloranthus inconspicuus).
 choice, select, chì-hó; siãng-hó; țòe-hó; téng-hó; it-hó; soán-hó--kải.
@@ -2052,7 +2052,7 @@ drivel, lảu-nõą.
 drizzle, hỗ-kią́; hỗ-mủį-kią́; hỗ-kią́ ẻng-ẻng; hỗ-kią́ xạp-xạp.
 droll, humorous, hàų-xứng; hàų-chhiè; hàų-txu-chhiè; hàų-niap-koài; txu-xứng. laughable, hó-chhiè; khó-chhiè; txọa-nảng-chhiè.
 droop, xàng-sim. wings, thụt-sịt. flower, hoe sià. leaves, hiẹh hủį-hủį.
-drop, of water, chẹc-tiám-țúi; tih-kią́-țúi. to, tih--lọh-lải; tạp-tạp-tih. anything from the hand, ka-laụh--lọh-lải; liù-ka-laụh; phiù-chhiú. anchor, pha-tèng. cease, hiah.
+drop, of water, chẹc-tiám-țúi; tih-kią́-țúi. to, tih--lọh-lải; tạp-tạp-tih. anything from the hand, ka-lạuh--lọh-lải; liù-ka-lạuh; phiù-chhiú. anchor, pha-tèng. cease, hiah.
 dropsy, țúi-hap; chéng-hap; phòng-hap; n̉g-chéng-hap. in the legs, kha-khì. in the abdomen, kố-chèng.
 dross, thih-xái; lổ-tói-xái.
 drought, õą; thį-sỉ õą; khàng-õą; kan-õą; õą-ta; bỏ-hỗ.
@@ -2938,7 +2938,7 @@ growl, hṃ-hṃ-kiè.
 grudge, or envy, kồ-kĩ. cherish, against another, khieh-hữn. to give or do, liẽn-sieh; ṃ-ngoãn; ṃ-chhẻng-ngoãn; khat-sí-khố txut-chį̉; siap; kiảm-siap; kien-liẽn.
 gruel, of rice, mỏę.
 gruff, manner and voice, ngiảm-siẻc txỏ-sią.
-grumble, liạm-kaụh; liạm-laụh; liạm-lộ; kih-kụh-kiè; kaụh-kaụh-kiè.
+grumble, liạm-kạuh; liạm-lạuh; liạm-lộ; kih-kụh-kiè; kạuh-kạuh-kiè.
 grunt, tư-sią; hauh̨--chẹ-kiè; hoh-hoh-kiè.
 guarantee, tam-sẻng; pau-nią́. a, țò-từng; àn-moẹh; țò-àn; àn-chieh; àn-từng.
 guard, to, siú; pó-siú; pé-siú; pé; chię́; chię́-siú; pó-hũ; hũ-õe; thỉ-hoảng; hoảng-õe; hoảng-hũ. against, thỉ-hoảng; ữ-hoảng. imperial, sĩ-õe.
@@ -3707,7 +3707,7 @@ learn, ọh; hạc-sịp; liẹn-sịp. by heart, thạc kàu-õi-liạm; thạc
 lease, to, xòe; țỏ-xòe. a written, khòi.
 least, siãng-xòi; țòe-xòi; țòe-mủį. in the least, hảu-lỉ; xut-kią́; xe-xu-kią́. not in the least, pẽng-bỏ; bỏ chẹc-xut-kią́. at the very least, siãng-kiám.
 leather, phỏe; sẹc-phỏe. to dress, sẹc-phỏe. shoes, phỏe-ỏi.
-leave, lị; lị-khui; lị-piẹt; sie-piẹt. off, kài; keh; kói; hiah. to take, sỉ-piẹt; chiãm-piẹt. behind, pàng-tiạu; ka-laụh; khì-tiạu; zũi-lọh (at death). loath to leave, siá-ṃ-tit; siá put-tit-khừ. leavings, xó-txủn.
+leave, lị; lị-khui; lị-piẹt; sie-piẹt. off, kài; keh; kói; hiah. to take, sỉ-piẹt; chiãm-piẹt. behind, pàng-tiạu; ka-lạuh; khì-tiạu; zũi-lọh (at death). loath to leave, siá-ṃ-tit; siá put-tit-khừ. leavings, xó-txủn.
 leaven, cą̀-bó. to leaven, lọh-cą̀; khí-cą̀; phủ-cą̀; hoat-cą̀.
 lecture, xoeh-țư; káng-țư; káng-tãu.
 ledger, țóng-phỗ.
@@ -3886,7 +3886,7 @@ maintain, siú; txủn; yáng; kiẻng-kip nảng-chiạh; chhị.
 maize, y-bí-dỉn; yų̀-múį-dỉn.
 majesty, his, oảng-siãng; hoảng-siãng. your majesty, pĩ-ẽ. of appearance, ui-hong; ui-ngiảm; ui-hong lím-lím; ui-lẻng hiẻc-hiẻc. put on majestic appearance, țac-ui.
 majority, tọa-pòą; chẹc-tọa-ỏe.
-make, țò; țac; țãu; țõ. one afraid, phièn-y-kią; heh-y-kią; hé-y-kią. out a bill, khui-toą. of wood, țang-txả țò; ẹng-txả țò. a bed, siu-sịp phỏ-kài; siu-sịp mỉn-txửng. up a deficiency, pố-khoeh. a loss, pỏe. known, thong-țai; pò-țai. clothes, thį̣-są; țò-są. up one's mind, lịp-țú-ỳ; lịp-tią̣ țú-ỳ. a bargain, kat-yeh; tią̣-yeh. the mind easy, pàng-sim; oą-sim. verses, țò-si. music, țac-gaụh. a row, kã-kã bó-diáng; ki-kã-la-kiè. haste, mę́--chẹ.
+make, țò; țac; țãu; țõ. one afraid, phièn-y-kią; heh-y-kią; hé-y-kią. out a bill, khui-toą. of wood, țang-txả țò; ẹng-txả țò. a bed, siu-sịp phỏ-kài; siu-sịp mỉn-txửng. up a deficiency, pố-khoeh. a loss, pỏe. known, thong-țai; pò-țai. clothes, thį̣-są; țò-są. up one's mind, lịp-țú-ỳ; lịp-tią̣ țú-ỳ. a bargain, kat-yeh; tią̣-yeh. the mind easy, pàng-sim; oą-sim. verses, țò-si. music, țac-gạuh. a row, kã-kã bó-diáng; ki-kã-la-kiè. haste, mę́--chẹ.
 Malacca, Mỏą-lạc-kah.
 malady, see disease.
 malaria, xoą-lảm chiàng-khì.
@@ -4038,7 +4038,7 @@ mineralogy, chiẹh-țóng-lũn.
 mingle, sie-txam; sie-chhiau.
 miniature, siáu-ngiá; hí-sỉn.
 minister, chhỉn; tãi-chhỉn; tãi-láu; koc-láu. prime, țái-siàng.
-minstrel, chhiè-khiẻc; txoe-siau; pủn-siau; țac-gaụh; țáu-chhiàng (travelling).
+minstrel, chhiè-khiẻc; txoe-siau; pủn-siau; țac-gạuh; țáu-chhiàng (travelling).
 mint, a, țù-chį̉-kẹc. master of the, chį̉-kẹc-koą.
 mint, pỏ-hò; pọh-hò.
 minute (small), xòi-mủį; yų̀-mủį; siảng-xòi; xòi-siảng; chiẻng-mủį. explain minutely, hun-thiah xòi-siảng.
@@ -4051,7 +4051,7 @@ misapprehend, się̃-tą̣; się̃-txò; gộ-się̃; thią-tą̣; thią-tx
 misbehave, bỏ-kui-kứ; bỏ-xũn hoap-tộ.
 miscall, tą̀-tą̣; kiè-tą̣.
 miscarry, sié-xóą; lọh-tho; lọh-xóą; tho tac-nựng; tũi-tho; a-nǫ̂̉ lọh-tiạu (accidental); lọh-tiạu a-nǫ̂̉ (intentional).
-miscellaneous, țạp; țạp-moẹh; țạp-kiáu-liãu; txàm-txùi-moẹh; lọc-lọc xọc-xọc; liaụh-liaụh chiaụh-chiaụh.
+miscellaneous, țạp; țạp-moẹh; țạp-kiáu-liãu; txàm-txùi-moẹh; lọc-lọc xọc-xọc; liạuh-liạuh chiạuh-chiạuh.
 mischance, ṃ-țãu-hòe.
 mischief, to do, hại-nảng. mischievous, lĩ-hại; kha-chhiú ṃ-hó; kha-chhiú țọi.
 misconduct, kòe-sit; ṃ-tùi-nảng; xàng-hẽng; xàng-pín.
@@ -4154,12 +4154,12 @@ muller, lủi-au; lủi-siẻc-į̣.
 multiplication, sẻng-siàu; sẻng-hoap. table, sẻng-toą. multiply by ̀, ẹng-̀ lải-sẻng.
 multitude, khủn-chèng; chią̉-khủn; sẻng-khủn. the, chèng-nảng; xù-mỉn.
 mumble, tą̀-ọe kảm-kổ.
-munch, chiạh tọa-txùi tọa-aụh̨; pộ.
+munch, chiạh tọa-txùi tọa-ạuh̨; pộ.
 murder, xoah-nảng; kù-xoah; xoah-sí-nảng; kią̉-hiong; thải-nảng. of parent or king, chhì-xoah kun-pẽ. murderer, hiong-chhiú; hiong-hoãm; hiong-thủ; țõe-hiong.
 murmur, kauh-kauh-kiè; liạm-lộ. against, oàn; oàn-hữn.
 muscle, nẹc; nẹc-si; nẹc-kưn (tendons of).
 mushroom, kỏ. edible, hię-kỏ.
-music, instrumental, gaụh; gaụh-im; gaụh-sią. make, țac-gaụh; țàu-gaụh. instruments of, gaụh-khì. box, poih-im-chiẻng. musician, gaụh-xư.
+music, instrumental, gạuh; gạuh-im; gạuh-sią. make, țac-gạuh; țàu-gạuh. instruments of, gạuh-khì. box, poih-im-chiẻng. musician, gạuh-xư.
 musk, siả-hię. deer, siả-káu.
 musket, chhèng; chiáu-chhèng; chiáu-chhię. musketeer, chhèng-chhiú. xee gun.
 muslin, xe; mį̉-xe.
@@ -4320,7 +4320,7 @@ oleander, țõ-ngoản-tiẻc.
 olives, cą́-ną́.
 omelet, koi-nững loah chią̉-tię; koi-nững-pią́.
 omen, tiãu; ki-tiãu. good, kit-tiãu. bad, hiong-tiãu.
-omit, sit; lạu-tiạu; làng-tiạu; kau-laụh-tiạu.
+omit, sit; lạu-tiạu; làng-tiạu; kau-lạuh-tiạu.
 omnipotent, bỏ-xó put-lẻng; txoản-lẻng.
 omnipresent, bỏ-xó put-tõ.
 omniscience, bỏ-xó put-țai; bỏ-xó put-txat.
@@ -5675,7 +5675,7 @@ sore, thią̀. a, txưng; txưng-txùi; mį̉-txưng. leg, kha mį̉.
 sorrow, hoản-ló; yu-bụn; txổ-sim; txổ-bụn; pui-txổ; yu-ut; pui-ut; ut-at; hoản-sim.
 sort, téng; hãng; lụi; yę̣; họ; siẻc; khí; khoán. all xorts, kac-siẻc; kac-hãng; kac-yę̣; peh-yę̣. this xort, chí-khí; chí-chẹc-khí.
 soul, lẻng-hủn.
-sound, sią; sią-im; kiè. to, õi-hiáng. a drum, phah-kố. of music, gaụh-im. of knocking, khoc-khoc-kiè (every xỏnd has its own proper designation in this form).
+sound, sią; sią-im; kiè. to, õi-hiáng. a drum, phah-kố. of music, gạuh-im. of knocking, khoc-khoc-kiè (every xỏnd has its own proper designation in this form).
 sound, doctrine, chią̀-kà; chią̀-lí; chią̀-tãu; chią̀-lộ. xỏnd asleep, gụt kàu-țùi-țãi; tọa-gụt.
 sound, to, as water, thàm-țúi. a perxon, chhì-thàm; thàm-mựng; kui-thàm.
 soup, thưng.
@@ -5830,7 +5830,7 @@ stern, of ship, țủn-bóe.
 stew, to, hip; pủ; xạh.
 stick, a, txỏe; kùn.
 stick, to, tah-tòe. sticc in, txah; tàu. sticky, liảm-lỉ tha-thi; kựt.
-stiff, ngẽ; ngẽ-ngaụh. -necked, sim ngẽ; aú-hỏę; hỏę-ngẹc. as with starch, khiạ-khiạ.
+stiff, ngẽ; ngẽ-ngạuh. -necked, sim ngẽ; aú-hỏę; hỏę-ngẹc. as with starch, khiạ-khiạ.
 stifle, hip-sí; khàm-sí. inquiry, thảng-xat-tiạu; hìm-tiạu.
 still, hoản-liáu; hoản-kèng; siãng-chhią́; yủ-sĩ; diỏng-diẻn. more, zú-kèng-țọi.
 still, add., tiạm-chę̃; thiảm-chę̃; chę̃; oą-chę̃. still-born, sí-tho.
